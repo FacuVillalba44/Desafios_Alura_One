@@ -1,0 +1,7 @@
+textarea{
+    resize: none;
+    border-style: none ;
+    border-radius: 10px;
+    background-color: cadetblue;
+    padding: 20px;
+}

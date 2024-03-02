@@ -1,0 +1,8 @@
+button{
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: larger   ;
+    box-shadow: none;
+    box-decoration-break:none ;
+    }
